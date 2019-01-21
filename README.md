@@ -1,4 +1,4 @@
-**Download phpwind_v9.0.2.170426_utf8, after the administrator logs in, open the following page**
+**Download phpwind_v9.0.2.170426_utf8, after the administrator logged in, open the following page**
 
 poc: /admin.php?m=backup&c=backup  --backup database
 
